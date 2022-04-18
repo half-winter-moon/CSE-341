@@ -1,0 +1,18 @@
+{
+  "name": "lesson-01-class-activity",
+  "version": "1.0.0",
+  "description": "package json for class activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('test command for package json');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CSE-341"
+  },
+  "keywords": [
+    "CSE-341"
+  ],
+  "author": "Jennie",
+  "license": "ISC"
+}
