@@ -2,7 +2,7 @@
   "name": "lesson-01-class-activity",
   "version": "1.0.0",
   "description": "package json for class activity",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "console.log('test command for package json');"
   },
@@ -14,5 +14,8 @@
     "CSE-341"
   ],
   "author": "Jennie",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
