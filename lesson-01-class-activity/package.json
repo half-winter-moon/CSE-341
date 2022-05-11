@@ -1,0 +1,22 @@
+{
+  "name": "lesson-01-class-activity",
+  "version": "1.0.0",
+  "description": "package json for class activity",
+  "main": "server.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/half-winter-moon/CSE-341.git"
+  },
+  "author": "Jennie Handy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
